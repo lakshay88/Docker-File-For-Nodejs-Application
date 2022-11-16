@@ -1,0 +1,22 @@
+{
+  "name": "nodejs_image-_docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lakshay88/Docker-File-For-Nodejs-Application.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lakshay88/Docker-File-For-Nodejs-Application/issues"
+  },
+  "homepage": "https://github.com/lakshay88/Docker-File-For-Nodejs-Application#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
