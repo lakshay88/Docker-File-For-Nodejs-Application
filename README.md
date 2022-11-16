@@ -23,3 +23,14 @@ Process -
 		
 
 If you want to create your own image then you can clone the repo in your system then using Dockerfile code you can create a NodeJs Image of your application. 
+
+  1 To clone the repo -
+		
+		https://github.com/lakshay88/Docker-File-For-Nodejs-Application.git
+	
+  2 Then copy the Dockerfile in your NodeJs working dir and run the command -
+		
+		$docker build -t "Your Tag" .
+  this will create a docker image in your system. You can check the created image by -
+	
+		$docker images 
